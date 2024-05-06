@@ -9,7 +9,7 @@ With a results-oriented mindset and an unstoppable work ethic, I strive to excel
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/AlgenisLopez)
 
 # 💻 My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,bootstrap,php,py,java,cpp,react,azure,anaconda,devto,aws,github,openshift,mysql,sqlite,postgres,figma,replit,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,bootstrap,php,py,java,cpp,react,azure,anaconda,devto,github,openshift,mysql,sqlite,figma,replit,vscode,linux)](https://skillicons.dev)
 
 <!--![](https://github-readme-stats.vercel.app/api?username=AlgenisLopez03&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlgenisLopez03&theme=algolia&hide_border=false)<br/>
