@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=discord,instagram//https://instagram.com/Algenis13lopez)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,instagram,linkedin)](https://skillicons.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Algenis13lopez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AlgenisLopez) 
 
 # 💻 Tech Stack:
