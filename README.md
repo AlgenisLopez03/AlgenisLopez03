@@ -4,7 +4,7 @@
   <img src="https://github.com/AlgenisLopez03/AlgenisLopez03/blob/main/assets/moving-star.gif" width="50px" height="50px">
 </div>
 <br>¡Hola mundo! 👋 Soy Algenis, un apasionado programador full stack, 
-Mi sed de conocimiento y mi deseo constante de perfeccionar mis habilidades me impulsan a explorar nuevas tecnologías y tendencias en el mundo del desarrollo.<br><br>Con una mentalidad orientada a resultados y una ética de trabajo imparable, me esfuerzo por destacar en todo lo que hago. Mi objetivo no es solo cumplir con las expectativas, sino superarlas. Estoy ansioso por participar en proyectos emocionantes y colaborar con equipos talentosos para llevar ideas innovadoras a la vida.<br><br>Si estás buscando un programador versátil, creativo y comprometido que pueda aportar un valor significativo a tu equipo, ¡no busques más! Estoy listo para enfrentar nuevos desafíos y contribuir al éxito de tu proyecto. ¡Vamos a crear algo increíble juntos!
+Mi sed de conocimiento y mi deseo constante de perfeccionar mis habilidades me impulsan a explorar nuevas tecnologías y tendencias en el mundo del desarrollo.<br><br>Con una mentalidad orientada a resultados y una ética de trabajo imparable, me esfuerzo por destacar en todo lo que hago. Mi objetivo no es solo cumplir con las expectativas, sino superarlas.<br><br>Si estás buscando un programador versátil, creativo y comprometido que pueda aportar un valor significativo a tu equipo, ¡no busques más! Estoy listo para enfrentar nuevos desafíos y contribuir al éxito de tu proyecto. ¡Vamos a crear algo increíble juntos!
 
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Algenis13lopez)
