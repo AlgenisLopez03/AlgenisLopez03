@@ -7,7 +7,7 @@ Mi sed de conocimiento y mi deseo constante de perfeccionar mis habilidades me i
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Algenis13lopez)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/AlgenisLopez)
 
-# 💻 Tech Stack:
+# 💻 My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,bootstrap,php,py,java,cpp,react,azure,anaconda,devto,aws,github,openshift,mysql,sqlite,postgres,figma,replit,vscode,linux)](https://skillicons.dev)
 
 <!--![](https://github-readme-stats.vercel.app/api?username=AlgenisLopez03&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
