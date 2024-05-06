@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<br>¡Hola mundo! 👋 Soy Algenis, un apasionado programador full stack, 
+<br>Hello World! 👋 I'm Algenis, un apasionado programador full stack, 
 My thirst for knowledge and my constant desire to refine my skills drive me to explore new technologies and trends in the world of development.<br><br>
 With a results-oriented mindset and an unstoppable work ethic, I strive to excel in everything I do. My goal is not just to meet expectations, but to exceed them.<br><br>If you are looking for a versatile, creative, and committed programmer who can bring significant value to your team, look no further! I am ready to face new challenges and contribute to the success of your project. Let's create something amazing together!
 
