@@ -1,7 +1,8 @@
 # 💫 About Me:
 
 <br>¡Hola mundo! 👋 Soy Algenis, un apasionado programador full stack, 
-Mi sed de conocimiento y mi deseo constante de perfeccionar mis habilidades me impulsan a explorar nuevas tecnologías y tendencias en el mundo del desarrollo.<br><br>Con una mentalidad orientada a resultados y una ética de trabajo imparable, me esfuerzo por destacar en todo lo que hago. Mi objetivo no es solo cumplir con las expectativas, sino superarlas.<br><br>Si estás buscando un programador versátil, creativo y comprometido que pueda aportar un valor significativo a tu equipo, ¡no busques más! Estoy listo para enfrentar nuevos desafíos y contribuir al éxito de tu proyecto. ¡Vamos a crear algo increíble juntos!
+My thirst for knowledge and my constant desire to refine my skills drive me to explore new technologies and trends in the world of development.<br><br>
+With a results-oriented mindset and an unstoppable work ethic, I strive to excel in everything I do. My goal is not just to meet expectations, but to exceed them.<br><br>If you are looking for a versatile, creative, and committed programmer who can bring significant value to your team, look no further! I am ready to face new challenges and contribute to the success of your project. Let's create something amazing together!
 
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Algenis13lopez)
