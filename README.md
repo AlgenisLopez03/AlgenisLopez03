@@ -6,7 +6,7 @@ With a results-oriented mindset and an unstoppable work ethic, I strive to excel
 
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Algenis13lopez)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/AlgenisLopez)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/algenisdelossantoslopez)
 
 # 💻 My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,bootstrap,php,py,java,cpp,react,azure,anaconda,devto,github,openshift,mysql,sqlite,figma,replit,vscode,linux)](https://skillicons.dev)
