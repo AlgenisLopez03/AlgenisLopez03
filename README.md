@@ -5,7 +5,6 @@ My thirst for knowledge and my constant desire to refine my skills drive me to e
 With a results-oriented mindset and an unstoppable work ethic, I strive to excel in everything I do. My goal is not just to meet expectations, but to exceed them.<br><br>If you are looking for a versatile, creative, and committed programmer who can bring significant value to your team, look no further! I am ready to face new challenges and contribute to the success of your project. Let's create something amazing together!
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Algenis13lopez)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/algenisdelossantoslopez)
 
 # 💻 My Tech Stack:
